@@ -85,10 +85,9 @@ Instrucciones paso a paso sobre cómo instalar el proyecto.
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu_usuario/tu_proyecto.git
+git clone https://github.com/DiamondMint/python-flask-mongodb-api
 
 # Entrar en el directorio del proyecto
-cd tu_proyecto
 
 # Crear un entorno virtual (opcional)
 python -m venv env
